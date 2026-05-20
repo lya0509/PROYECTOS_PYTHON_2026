@@ -1,0 +1,6 @@
+serviceAccountKey.json
+contrasenas.xlsx
+APPMARIACONTABLE/build/
+APPMARIACONTABLE/dist/
+*.exe
+*.pkg

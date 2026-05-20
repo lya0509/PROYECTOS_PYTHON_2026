@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389809615687",
+    "project_id": "runner2026scout",
+    "storage_bucket": "runner2026scout.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389809615687:android:b5c757919616fe1c9f9262",
+        "android_client_info": {
+          "package_name": "com.example.runner_scout_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmn4aqHYfnUY4Q4ml27kM7pSooayK9HWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389809615687:android:cb27895b78fb4a7d9f9262",
+        "android_client_info": {
+          "package_name": "com.example.runnerscout_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmn4aqHYfnUY4Q4ml27kM7pSooayK9HWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
